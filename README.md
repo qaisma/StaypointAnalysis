@@ -1,6 +1,6 @@
 # StaypointAnalysis
 
-for reports: run SPAnalyzeReport.py 2 string variables will printed: 
+for reports: run SPAnalyzeReport.py 2 string variables be will printed: 
 -result: contains a plain text report about the data (clusters)
 -result2: contains a table in Latex format
 
